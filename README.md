@@ -2,7 +2,7 @@
 
 # Willkommen bei n8n im Codespace!
 
-Die Umgebung wird im Hintergrund vorbereitet. Das dauert beim ersten Start ca. 1–2 Minuten.
+Die Umgebung wird im Hintergrund vorbereitet. Das dauert beim ersten Start ca. 5 Minuten.
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/pipapolalalama/n8n_ditact2026)
 

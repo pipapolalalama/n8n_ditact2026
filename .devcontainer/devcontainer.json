@@ -8,5 +8,5 @@
   },
 
   "updateContentCommand": "bash .devcontainer/updateContent.sh",
-  "postStartCommand": "n8n start"
+  "postStartCommand": "N8N_HOST=$CODESPACE_NAME-5678.app.github.dev N8N_PROTOCOL=https N8N_EDITOR_BASE_URL=https://$CODESPACE_NAME-5678.app.github.dev WEBHOOK_URL=https://$CODESPACE_NAME-5678.app.github.dev/ N8N_PROXY_HOPS=1 n8n start"
 }
